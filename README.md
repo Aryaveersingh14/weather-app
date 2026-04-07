@@ -1,4 +1,4 @@
-#🌦️ Weather App
+**🌦️ Weather App**
 
 A modern and responsive weather application that provides real-time weather updates using API integration. This app displays temperature, humidity, wind speed, and weather conditions with a clean and user-friendly interface.
 
