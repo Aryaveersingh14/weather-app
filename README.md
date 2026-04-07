@@ -4,7 +4,7 @@ A modern and responsive weather application that provides real-time weather upda
 
 ⸻
 
-🚀 Features
+**🚀 Features**
 	•	🌍 Search weather by city name
 	•	🌡️ Real-time temperature updates
 	•	💧 Humidity and wind speed information
@@ -14,7 +14,7 @@ A modern and responsive weather application that provides real-time weather upda
 
 ⸻
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 	•	HTML
 	•	CSS
 	•	JavaScript
